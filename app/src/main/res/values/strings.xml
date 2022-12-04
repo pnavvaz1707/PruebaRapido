@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">PruebaRapido</string>
+    <string name="personal_title">----- Personal -----</string>
+    <string name="nombre_txt">Nombre:</string>
+    <string name="cargo_txt">Cargo:</string>
+    <string name="sueldo_txt">Sueldo:</string>
+    <string name="coches_txt">Coches:</string>
+    <string name="btn_ver">Ver</string>
+    <string-array name="personalNombres">
+        <item>Ángel</item>
+        <item>María</item>
+        <item>Juan</item>
+        <item>Guadalupe</item>
+    </string-array>
+    <string-array name="personalCargos">
+        <item>Director</item>
+        <item>Oficial</item>
+        <item>Médico</item>
+        <item>Informático</item>
+    </string-array>
+    <string-array name="personalSueldo">
+        <item>3000</item>
+        <item>1500</item>
+        <item>2700</item>
+        <item>1700</item>
+    </string-array>
+    <string-array name="cochesMarca">
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Toyota</item>
+        <item>Honda</item>
+        <item>Citroën</item>
+    </string-array>
+    <string-array name="cochesColor">
+        <item>Negro</item>
+        <item>Blanco</item>
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Amarillo</item>
+    </string-array>
+</resources>
